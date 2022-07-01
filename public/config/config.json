@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8A698C0068eCf4b1F0065F593DB4dB0e9692327b",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8A698C0068eCf4b1F0065F593DB4dB0e9692327b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MermaidGirl",
+  "SYMBOL": "MRMD",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/teenager-slow-loris",
+  "SHOW_BACKGROUND": true
+}
